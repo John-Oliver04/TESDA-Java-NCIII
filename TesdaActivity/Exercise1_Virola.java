@@ -1,5 +1,7 @@
 package TesdaActivity;
 
+import java.lang.Long;
+
 public class Exercise1_Virola {
     public static void main(String[] args) {
         long number = 38710815121118L;
